@@ -13,11 +13,11 @@
     { "language": "vue", "autoFix": true }
   ],
   "emmet.triggerExpansionOnTab": true,
-  // "explorer.confirmDelete": false,
-  // "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
   "files.eol": "\n",
   "terminal.integrated.fontSize": 12,
-  // "window.zoomLevel": 3,
+  "window.zoomLevel": 3,
   "workbench.startupEditor": "none",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -36,7 +36,7 @@
   },
   "files.trimTrailingWhitespace": true,
   "editor.minimap.enabled": true,
-  // "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
   "diffEditor.ignoreTrimWhitespace": true,
   "window.titleBarStyle": "custom",
   "breadcrumbs.enabled": false,
@@ -54,5 +54,5 @@
   "eslint.alwaysShowStatus": true,
   "eslint.autoFixOnSave": true,
   "npm.enableScriptExplorer": true,
-  "editor.largeFileOptimizations": false,
+  "editor.largeFileOptimizations": false
 }
